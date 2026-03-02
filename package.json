@@ -14,7 +14,8 @@
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "slugify": "^1.6.6"
+    "slugify": "^1.6.6",
+    "vercel": "^50.25.4"
   },
   "devDependencies": {
     "@types/node": "^20",
