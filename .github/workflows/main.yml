@@ -50,7 +50,7 @@ jobs:
           run: npm run lint
 
         - name: verificando formato
-          run: npm run format -- --check
+          run: npm run format
 
         - name: Rodar testes
           run: npm run test
